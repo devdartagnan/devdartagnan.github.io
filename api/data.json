@@ -1,6 +1,7 @@
 [
     {
         "id": "09050",
+        "data": "",
         "cardDescription": "Calculadora feita com javascipt e sass",
         "titulo": "Calculadora",
         "tag": [
@@ -18,6 +19,7 @@
     },
     {
         "id": "09051",
+        "data": "",
         "cardDescription": "Paper Rock Sciscor",
         "titulo": "Paper Rock Sciscor",
         "tag": [
@@ -37,6 +39,7 @@
     },
     {
         "id": "09052",
+        "data": "",
         "cardDescription": "Random quotes Issac Newton",
         "titulo": "Random quotes Issac Newton",
         "tag": [
@@ -57,6 +60,7 @@
     },
     {
         "id": "09053",
+        "data": "",
         "cardDescription": "Login screen, CRUD, using localhost",
         "titulo": "Login",
         "tag": [
@@ -69,12 +73,13 @@
             "contentImages": [
                 "/images/crud.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
+            "projectUrl": "7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
     {
         "id": "09054",
+        "data": "",
         "cardDescription": "Card holder page, responsive, autotype",
         "titulo": "Card holder",
         "tag": [
@@ -87,12 +92,13 @@
                 "/images/cardholder.jpg",
                 "/images/cardholdermobile.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
+            "projectUrl": "interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
     {
         "id": "09056",
+        "data": "",
         "cardDescription": "Chart of expensives, responsive, using framework",
         "titulo": "Chart",
         "tag": [
@@ -107,12 +113,13 @@
                 "/images/chart.jpg",
                 "/images/chartmobile.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
+            "projectUrl": "chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
     {
         "id": "09057",
+        "data": "",
         "cardDescription": "Alura space, done using React",
         "titulo": "Alura space",
         "tag": [
@@ -126,12 +133,13 @@
             "contentImages": [
                 "/images/aluraspace.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
+            "projectUrl": "alura-space-5b22jx86u-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
     {
         "id": "09058",
+        "data": "",
         "cardDescription": "Alura geek, e-commerce html css e js page",
         "titulo": "Alura geek",
         "tag": [
@@ -147,17 +155,17 @@
                 "/images/geekmobile3.jpg",
                 "/images/geekmobileLogin.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
+            "projectUrl": "alurageek-k76kosdzo-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
     {
         "id": "09059",
+        "data": "",
         "cardDescription": "Robot with interface",
         "titulo": "Robot",
         "tag": [
-            "javascript",
-            "react"
+            "javascript"
         ],
         "thumb": "/images/robo.jpg",
         "altImage": "Geek page",
@@ -165,17 +173,20 @@
             "contentImages": [
                 "/images/robo.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "robotron-2000-84vklw91m-devdartagnan.vercel.app/",
+            "textoDescricao": "Robotron 2000 - Projeto realizado durante um curso de Javascript, usando presets como base para criar um sistema de build de um robô, super simples e não responsivo"
         }
     },
     {
         "id": "09060",
+        "data": "",
         "cardDescription": "Todo timer",
         "titulo": "Todo timer",
         "tag": [
             "javascript",
-            "react"
+            "react",
+            "sass",
+            "typescript"
         ],
         "thumb": "/images/timer.jpg",
         "altImage": "Geek page",
@@ -183,8 +194,8 @@
             "contentImages": [
                 "/images/timer.jpg"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://todo-timer-nine.vercel.app/",
+            "textoDescricao": "TODO List, feita durante um curso de react, usando timer relacionado ao item da lista usando recursos simples de react, usando também sass para estilização, e UUid para gerar ID's randomicamentes "
         }
     }
 ]
