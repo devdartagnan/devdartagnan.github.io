@@ -73,7 +73,7 @@
             "contentImages": [
                 "/images/crud.jpg"
             ],
-            "projectUrl": "7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app",
+            "projectUrl": "https://7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
@@ -92,7 +92,7 @@
                 "/images/cardholder.jpg",
                 "/images/cardholdermobile.jpg"
             ],
-            "projectUrl": "interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app",
+            "projectUrl": "https://interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
@@ -113,7 +113,7 @@
                 "/images/chart.jpg",
                 "/images/chartmobile.jpg"
             ],
-            "projectUrl": "chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app",
+            "projectUrl": "https://chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
@@ -133,7 +133,7 @@
             "contentImages": [
                 "/images/aluraspace.jpg"
             ],
-            "projectUrl": "alura-space-5b22jx86u-devdartagnan.vercel.app",
+            "projectUrl": "https://alura-space-5b22jx86u-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
@@ -155,7 +155,7 @@
                 "/images/geekmobile3.jpg",
                 "/images/geekmobileLogin.jpg"
             ],
-            "projectUrl": "alurageek-k76kosdzo-devdartagnan.vercel.app",
+            "projectUrl": "https://alurageek-k76kosdzo-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
         }
     },
@@ -173,7 +173,7 @@
             "contentImages": [
                 "/images/robo.jpg"
             ],
-            "projectUrl": "robotron-2000-84vklw91m-devdartagnan.vercel.app/",
+            "projectUrl": "https://robotron-2000-84vklw91m-devdartagnan.vercel.app/",
             "textoDescricao": "Robotron 2000 - Projeto realizado durante um curso de Javascript, usando presets como base para criar um sistema de build de um robô, super simples e não responsivo"
         }
     },
