@@ -5,7 +5,8 @@
         "cardDescription": "Calculadora feita com javascipt e sass",
         "titulo": "Calculadora",
         "tag": [
-            "javascript"
+            "javascript",
+            "*"
         ],
         "thumb": "/images/calculator.jpg",
         "altImage": "Calculadora simples",
@@ -24,7 +25,8 @@
         "titulo": "Paper Rock Sciscor",
         "tag": [
             "javascript",
-            "typescript"
+            "typescript",
+            "*"
         ],
         "thumb": "/images/scisor.jpg",
         "altImage": "Paper Rock Sciscor game",
@@ -45,7 +47,8 @@
         "tag": [
             "javascript",
             "typescript",
-            "react"
+            "react",
+            "*"
         ],
         "thumb": "/images/quote.jpg",
         "altImage": "Random quotes Issac Newton",
@@ -65,7 +68,8 @@
         "titulo": "Login",
         "tag": [
             "javascript",
-            "typescript"
+            "typescript",
+            "*"
         ],
         "thumb": "/images/crud.jpg",
         "altImage": "Login screen",
@@ -83,7 +87,8 @@
         "cardDescription": "Card holder page, responsive, autotype",
         "titulo": "Card holder",
         "tag": [
-            "typescript"
+            "typescript",
+            "*"
         ],
         "thumb": "/images/cardholder.jpg",
         "altImage": "Card holder page",
@@ -104,7 +109,8 @@
         "tag": [
             "javascript",
             "typescript",
-            "react"
+            "react",
+            "*"
         ],
         "thumb": "/images/chart.jpg",
         "altImage": "Chart of expensives",
@@ -125,7 +131,8 @@
         "tag": [
             "javascript",
             "typescript",
-            "react"
+            "react",
+            "*"
         ],
         "thumb": "/images/aluraspace.jpg",
         "altImage": "Alura space page",
@@ -144,7 +151,8 @@
         "titulo": "Alura geek",
         "tag": [
             "javascript",
-            "react"
+            "react",
+            "*"
         ],
         "thumb": "/images/geek.jpg",
         "altImage": "Geek page",
@@ -165,7 +173,8 @@
         "cardDescription": "Robot with interface",
         "titulo": "Robot",
         "tag": [
-            "javascript"
+            "javascript",
+            "*"
         ],
         "thumb": "/images/robo.jpg",
         "altImage": "Geek page",
@@ -186,7 +195,8 @@
             "javascript",
             "react",
             "sass",
-            "typescript"
+            "typescript",
+            "*"
         ],
         "thumb": "/images/timer.jpg",
         "altImage": "Geek page",
