@@ -8,11 +8,11 @@
             "javascript",
             "*"
         ],
-        "thumb": "/images/calculator.jpg",
+        "thumb": "/images/calculator.webp",
         "altImage": "Calculadora simples",
         "altPage": {
             "contentImages": [
-                "/images/calculator.jpg"
+                "/images/calculator.webp"
             ],
             "projectUrl": "https://calculadora-build.vercel.app/",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -28,12 +28,12 @@
             "typescript",
             "*"
         ],
-        "thumb": "/images/scisor.jpg",
+        "thumb": "/images/scisor.webp",
         "altImage": "Paper Rock Sciscor game",
         "altPage": {
             "contentImages": [
-                "/images/scisor.jpg",
-                "/images/scisor2.jpg"
+                "/images/scisor.webp",
+                "/images/scisor2.webp"
             ],
             "projectUrl": "https://paper-rock-sciscor-simple-js.vercel.app",
             "textoDescricao": "Paper Rock Sciscor"
@@ -50,12 +50,12 @@
             "react",
             "*"
         ],
-        "thumb": "/images/quote.jpg",
+        "thumb": "/images/quote.webp",
         "altImage": "Random quotes Issac Newton",
         "altPage": {
             "contentImages": [
-                "/images/quote.jpg",
-                "/images/quotemobile.jpg"
+                "/images/quote.webp",
+                "/images/quotemobile.webp"
             ],
             "projectUrl": "https://random-quotes-issac-newton.vercel.app",
             "textoDescricao": "Random quotes Issac Newton"
@@ -71,11 +71,11 @@
             "typescript",
             "*"
         ],
-        "thumb": "/images/crud.jpg",
+        "thumb": "/images/crud.webp",
         "altImage": "Login screen",
         "altPage": {
             "contentImages": [
-                "/images/crud.jpg"
+                "/images/crud.webp"
             ],
             "projectUrl": "https://7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -90,12 +90,12 @@
             "typescript",
             "*"
         ],
-        "thumb": "/images/cardholder.jpg",
+        "thumb": "/images/cardholder.webp",
         "altImage": "Card holder page",
         "altPage": {
             "contentImages": [
-                "/images/cardholder.jpg",
-                "/images/cardholdermobile.jpg"
+                "/images/cardholder.webp",
+                "/images/cardholdermobile.webp"
             ],
             "projectUrl": "https://interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -112,12 +112,12 @@
             "react",
             "*"
         ],
-        "thumb": "/images/chart.jpg",
+        "thumb": "/images/chart.webp",
         "altImage": "Chart of expensives",
         "altPage": {
             "contentImages": [
-                "/images/chart.jpg",
-                "/images/chartmobile.jpg"
+                "/images/chart.webp",
+                "/images/chartmobile.webp"
             ],
             "projectUrl": "https://chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -134,11 +134,11 @@
             "react",
             "*"
         ],
-        "thumb": "/images/aluraspace.jpg",
+        "thumb": "/images/aluraspace.webp",
         "altImage": "Alura space page",
         "altPage": {
             "contentImages": [
-                "/images/aluraspace.jpg"
+                "/images/aluraspace.webp"
             ],
             "projectUrl": "https://alura-space-5b22jx86u-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -154,14 +154,14 @@
             "react",
             "*"
         ],
-        "thumb": "/images/geek.jpg",
+        "thumb": "/images/geek.webp",
         "altImage": "Geek page",
         "altPage": {
             "contentImages": [
-                "/images/geek.jpg",
-                "/images/geekmobile2.jpg",
-                "/images/geekmobile3.jpg",
-                "/images/geekmobileLogin.jpg"
+                "/images/geek.webp",
+                "/images/geekmobile2.webp",
+                "/images/geekmobile3.webp",
+                "/images/geekmobileLogin.webp"
             ],
             "projectUrl": "https://alurageek-k76kosdzo-devdartagnan.vercel.app",
             "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
@@ -176,11 +176,11 @@
             "javascript",
             "*"
         ],
-        "thumb": "/images/robo.jpg",
+        "thumb": "/images/robo.webp",
         "altImage": "Geek page",
         "altPage": {
             "contentImages": [
-                "/images/robo.jpg"
+                "/images/robo.webp"
             ],
             "projectUrl": "https://robotron-2000-84vklw91m-devdartagnan.vercel.app/",
             "textoDescricao": "Robotron 2000 - Projeto realizado durante um curso de Javascript, usando presets como base para criar um sistema de build de um robô, super simples e não responsivo"
@@ -198,11 +198,11 @@
             "typescript",
             "*"
         ],
-        "thumb": "/images/timer.jpg",
+        "thumb": "/images/timer.webp",
         "altImage": "Geek page",
         "altPage": {
             "contentImages": [
-                "/images/timer.jpg"
+                "/images/timer.webp"
             ],
             "projectUrl": "https://todo-timer-nine.vercel.app/",
             "textoDescricao": "TODO List, feita durante um curso de react, usando timer relacionado ao item da lista usando recursos simples de react, usando também sass para estilização, e UUid para gerar ID's randomicamentes "
