@@ -1,11 +1,15 @@
 [
     {
-        "id": "09050",
+        "id": "547850",
         "data": "",
-        "cardDescription": "Calculadora feita com javascipt e sass",
-        "titulo": "Calculadora",
+        "cardDescription": {
+            "en": "Calculator done using javascript as sass",
+            "pt": "Calculadora feita com javascipt e sass"
+        },
+        "titulo": "Calculator",
         "tag": [
             "javascript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/calculator.webp",
@@ -14,18 +18,20 @@
             "contentImages": [
                 "/images/calculator.webp"
             ],
-            "projectUrl": "https://calculadora-build.vercel.app/",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://calculadora-build.vercel.app/"
         }
     },
     {
-        "id": "09051",
-        "data": "",
-        "cardDescription": "Paper Rock Sciscor",
+        "id": "547851",
+        "data": "Paper Rock Sciscor",
+        "cardDescription": {
+            "en": "Paper Rock Sciscor, simple game with counter",
+            "pt": "Pedra papel e tesoura, app simples ccom contadores de jogadas"
+        },
         "titulo": "Paper Rock Sciscor",
         "tag": [
             "javascript",
-            "typescript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/scisor.webp",
@@ -35,18 +41,21 @@
                 "/images/scisor.webp",
                 "/images/scisor2.webp"
             ],
-            "projectUrl": "https://paper-rock-sciscor-simple-js.vercel.app",
-            "textoDescricao": "Paper Rock Sciscor"
+            "projectUrl": "https://paper-rock-sciscor-simple-js.vercel.app"
         }
     },
     {
-        "id": "09052",
+        "id": "547852",
         "data": "",
-        "cardDescription": "Random quotes Issac Newton",
+        "cardDescription": {
+            "en": "Random quotes Issac Newton, using Api",
+            "pt": "Citações do Isaac Newton, usando Api simples"
+        },
         "titulo": "Random quotes Issac Newton",
         "tag": [
             "javascript",
             "typescript",
+            "responsive",
             "react",
             "*"
         ],
@@ -57,14 +66,16 @@
                 "/images/quote.webp",
                 "/images/quotemobile.webp"
             ],
-            "projectUrl": "https://random-quotes-issac-newton.vercel.app",
-            "textoDescricao": "Random quotes Issac Newton"
+            "projectUrl": "https://random-quotes-issac-newton.vercel.app"
         }
     },
     {
-        "id": "09053",
+        "id": "547853",
         "data": "",
-        "cardDescription": "Login screen, CRUD, using localhost",
+        "cardDescription": {
+            "en": "Login screen, CRUD, using localhost",
+            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
+        },
         "titulo": "Login",
         "tag": [
             "javascript",
@@ -77,14 +88,16 @@
             "contentImages": [
                 "/images/crud.webp"
             ],
-            "projectUrl": "https://7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://7-days-of-code-simple-o76i1lyrb-devdartagnan.vercel.app"
         }
     },
     {
-        "id": "09054",
+        "id": "547854",
         "data": "",
-        "cardDescription": "Card holder page, responsive, autotype",
+        "cardDescription": {
+            "en": "Cardholder page, responsive, autotype with sass",
+            "pt": "Formulario de pagamento via cartão, responsivo, sass autocomplete"
+        },
         "titulo": "Card holder",
         "tag": [
             "typescript",
@@ -97,12 +110,32 @@
                 "/images/cardholder.webp",
                 "/images/cardholdermobile.webp"
             ],
-            "projectUrl": "https://interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app"
         }
     },
     {
-        "id": "09056",
+        "id": "547855",
+        "data": "",
+        "cardDescription": {
+            "en": "Form, made to test some inputs ",
+            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
+        },
+        "titulo": "form ",
+        "tag": [
+            "javascript",
+            "*"
+        ],
+        "thumb": "/images/form.webp",
+        "altImage": "Simple form",
+        "altPage": {
+            "contentImages": [
+                "/images/form.webp"
+            ],
+            "projectUrl": "https://simple-form-validation-lilac.vercel.app/"
+        }
+    },
+    {
+        "id": "547856",
         "data": "",
         "cardDescription": "Chart of expensives, responsive, using framework",
         "titulo": "Chart",
@@ -110,6 +143,7 @@
             "javascript",
             "typescript",
             "react",
+            "responsive",
             "*"
         ],
         "thumb": "/images/chart.webp",
@@ -119,14 +153,16 @@
                 "/images/chart.webp",
                 "/images/chartmobile.webp"
             ],
-            "projectUrl": "https://chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://chart-front-end-mentor-dd78-cg9sl6wm8-devdartagnan.vercel.app"
         }
     },
     {
-        "id": "09057",
+        "id": "547857",
         "data": "",
-        "cardDescription": "Alura space, done using React",
+        "cardDescription": {
+            "en": "Alura space, made with react to understand how it works",
+            "pt": "Alura space, feito comm react para o simples intendimento de como o mesmo funciona"
+        },
         "titulo": "Alura space",
         "tag": [
             "javascript",
@@ -140,14 +176,16 @@
             "contentImages": [
                 "/images/aluraspace.webp"
             ],
-            "projectUrl": "https://alura-space-5b22jx86u-devdartagnan.vercel.app",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://alura-space-5b22jx86u-devdartagnan.vercel.app"
         }
     },
     {
-        "id": "09058",
+        "id": "547858",
         "data": "",
-        "cardDescription": "Alura geek, e-commerce html css e js page",
+        "cardDescription": {
+            "en": "Alura geek, e-commerce site of geeks",
+            "pt": "Alura geek, site e-commerce de produtos geeks"
+        },
         "titulo": "Alura geek",
         "tag": [
             "javascript",
@@ -163,49 +201,98 @@
                 "/images/geekmobile3.webp",
                 "/images/geekmobileLogin.webp"
             ],
-            "projectUrl": "https://alurageek-k76kosdzo-devdartagnan.vercel.app",
-            "textoDescricao": "calculadora feita utilizando as tecnologias html,sass e javascript"
+            "projectUrl": "https://alurageek-k76kosdzo-devdartagnan.vercel.app"
         }
     },
     {
-        "id": "09059",
+        "id": "547859",
         "data": "",
-        "cardDescription": "Robot with interface",
+        "cardDescription": {
+            "en": "Build your own robot, site with some inputs to create your own robot",
+            "pt": "Crie seu priprio, site com alguns inpuuts para você criar seu proprio robô"
+        },
         "titulo": "Robot",
         "tag": [
             "javascript",
             "*"
         ],
         "thumb": "/images/robo.webp",
-        "altImage": "Geek page",
+        "altImage": "Robot page",
         "altPage": {
             "contentImages": [
                 "/images/robo.webp"
             ],
-            "projectUrl": "https://robotron-2000-84vklw91m-devdartagnan.vercel.app/",
-            "textoDescricao": "Robotron 2000 - Projeto realizado durante um curso de Javascript, usando presets como base para criar um sistema de build de um robô, super simples e não responsivo"
+            "projectUrl": "https://robotron-2000-84vklw91m-devdartagnan.vercel.app/"
         }
     },
     {
-        "id": "09060",
+        "id": "547860",
         "data": "",
-        "cardDescription": "Todo timer",
+        "cardDescription": {
+            "en": "Todo with timer, made with react using a list associate to a timer",
+            "pt": "Todo com contador, feito via react uusando uma lista associadda ao timer "
+        },
         "titulo": "Todo timer",
         "tag": [
             "javascript",
             "react",
             "sass",
             "typescript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/timer.webp",
-        "altImage": "Geek page",
+        "altImage": "Todo timer page",
         "altPage": {
             "contentImages": [
                 "/images/timer.webp"
             ],
-            "projectUrl": "https://todo-timer-nine.vercel.app/",
-            "textoDescricao": "TODO List, feita durante um curso de react, usando timer relacionado ao item da lista usando recursos simples de react, usando também sass para estilização, e UUid para gerar ID's randomicamentes "
+            "projectUrl": "https://todo-timer-nine.vercel.app/"
+        }
+    },
+    {
+        "id": "547861",
+        "data": "",
+        "cardDescription": {
+            "en": "",
+            "pt": "Calculadora feita com javascipt e sass"
+        },
+        "titulo": "Calculadora",
+        "tag": [
+            "javascript",
+            "typescript",
+            "*"
+        ],
+        "thumb": "/images/portfolio-designer.webp",
+        "altImage": "Calculadora simples",
+        "altPage": {
+            "contentImages": [
+                "/images/portfolio-designer.webp"
+            ],
+            "projectUrl": "https://designer-portfolio-eight.vercel.app/"
+        }
+    },
+    {
+        "id": "547862",
+        "data": "",
+        "cardDescription": {
+            "en": "Site made during Alura course, made with React focusing on filters and ordenation",
+            "pt": "Site criado durante o curso da Alura, usando react com foco em filtros e ordenação"
+        },
+        "titulo": "Aluroni pizzaria",
+        "tag": [
+            "javascript",
+            "react",
+            "typescript",
+            "*"
+        ],
+        "thumb": "/images/pizza.webp",
+        "altImage": "Pizzaria",
+        "altPage": {
+            "contentImages": [
+                "/images/pizza.webp"
+            ],
+            "projectUrl": "https://pizza-site-react.vercel.app/"
         }
     }
 ]
