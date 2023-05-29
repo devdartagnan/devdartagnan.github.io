@@ -3,8 +3,8 @@
         "id": "547850",
         "data": "",
         "cardDescription": {
-            "en": "Calculator made using javascript and sass",
-            "pt": "Calculadora feita com javascipt e sass"
+            "en": "Calculator, made using javascript and sass",
+            "pt": "Calculadora, feita com javascipt e sass"
         },
         "titulo": {
             "en":"Calculator",
@@ -29,7 +29,7 @@
         "data": "Paper Rock Sciscor",
         "cardDescription": {
             "en": "Paper Rock Sciscor, simple game with counter",
-            "pt": "Pedra papel e tesoura, app simples ccom contadores de jogadas"
+            "pt": "Pedra papel e tesoura, app simples com contadores de jogadas"
         },
         "titulo": {
             "en":"Rock Paper Scisor (Jokenpo)",
@@ -82,8 +82,8 @@
         "id": "547853",
         "data": "",
         "cardDescription": {
-            "en": "Login screen, CRUD, using localhost",
-            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
+            "en": "Form login(CRUD), using localhost to save data, possibiliting create, read, update and remove an account ",
+            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados, possibilitando criar, ler, atualizar e remover uma conta"
         },
         "titulo": {
             "en":"CRUD Login",
@@ -133,7 +133,7 @@
         "data": "",
         "cardDescription": {
             "en": "Form, made to test some inputs ",
-            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
+            "pt": "Formulario, feito para testar alguuns inputs"
         },
         "titulo": {
             "en":"Form",
@@ -144,7 +144,7 @@
             "*"
         ],
         "thumb": "/images/form.webp",
-        "altImage": "Simple form",
+        "altImage": "form",
         "altPage": {
             "contentImages": [
                 "/images/form.webp"
@@ -155,7 +155,10 @@
     {
         "id": "547856",
         "data": "",
-        "cardDescription": "Chart of expensives, responsive, using framework",
+        "cardDescription": {
+            "en": "Chart of expenses, used Vite and Apex charts(library)",
+            "pt": "Gráficos de despesas, foi usado Vite e Apex Charts(biblioteca)"
+        },
         "titulo": {
             "en":"Expenses chart",
             "pt":"Gráfico de despesas"
@@ -181,8 +184,8 @@
         "id": "547857",
         "data": "",
         "cardDescription": {
-            "en": "Alura space, made with react to understand how it works",
-            "pt": "Alura space, feito comm react para o simples intendimento de como o mesmo funciona"
+            "en": "Alura space, first site made with react, used to understand React and components that interacts, like filters",
+            "pt": "Alura space, primeiro site feito com react, usado para o entendimento do React e seus components que interagem, como filtros"
         },
         "titulo": {
             "en":"Alura space",
@@ -236,7 +239,7 @@
         "data": "",
         "cardDescription": {
             "en": "Build your own robot, site with some inputs to create your own robot",
-            "pt": "Crie seu priprio, site com alguns inpuuts para você criar seu proprio robô"
+            "pt": "Crie seu priprio, site com alguns inputs para você criar seu proprio robô"
         },
         "titulo": {
             "en":"Robot",
@@ -259,8 +262,8 @@
         "id": "547860",
         "data": "",
         "cardDescription": {
-            "en": "Todo with timer, made with react using a list associate to a timer",
-            "pt": "Todo com contador, feito via react uusando uma lista associadda ao timer "
+            "en": "TODO list with timer, made with react using a list associate to a timer",
+            "pt": "lista TODO com contador, feito via react usando uma lista associadda ao timer "
         },
         "titulo": {
             "en":"TODO list with timer",
@@ -281,31 +284,6 @@
                 "/images/timer.webp"
             ],
             "projectUrl": "https://todo-timer-nine.vercel.app/"
-        }
-    },
-    {
-        "id": "547861",
-        "data": "",
-        "cardDescription": {
-            "en": "",
-            "pt": "Calculadora feita com javascipt e sass"
-        },
-        "titulo": {
-            "en":"None",
-            "pt":"None"
-        },
-        "tag": [
-            "javascript",
-            "typescript",
-            "*"
-        ],
-        "thumb": "/images/portfolio-designer.webp",
-        "altImage": "Calculadora simples",
-        "altPage": {
-            "contentImages": [
-                "/images/portfolio-designer.webp"
-            ],
-            "projectUrl": "https://designer-portfolio-eight.vercel.app/"
         }
     },
     {
