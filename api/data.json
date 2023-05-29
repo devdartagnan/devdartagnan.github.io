@@ -82,8 +82,8 @@
         "id": "547853",
         "data": "",
         "cardDescription": {
-            "en": "Form login(CRUD), using localhost to save data, possibiliting create, read, update and remove an account ",
-            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados, possibilitando criar, ler, atualizar e remover uma conta"
+            "en": "Form login (CRUD), using localhost to save data, making it possible to create, read, update, and remove an account",
+            "pt": "Formulario de login(CRUD), usando localhost para armazenar dados, possibilitando criar, ler, atualizar, e remover uma conta"
         },
         "titulo": {
             "en":"CRUD Login",
