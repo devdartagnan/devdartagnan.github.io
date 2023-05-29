@@ -3,10 +3,13 @@
         "id": "547850",
         "data": "",
         "cardDescription": {
-            "en": "Calculator done using javascript as sass",
+            "en": "Calculator made using javascript and sass",
             "pt": "Calculadora feita com javascipt e sass"
         },
-        "titulo": "Calculator",
+        "titulo": {
+            "en":"Calculator",
+            "pt":"Calculadora"
+        },
         "tag": [
             "javascript",
             "responsive",
@@ -28,7 +31,10 @@
             "en": "Paper Rock Sciscor, simple game with counter",
             "pt": "Pedra papel e tesoura, app simples ccom contadores de jogadas"
         },
-        "titulo": "Paper Rock Sciscor",
+        "titulo": {
+            "en":"Rock Paper Scisor (Jokenpo)",
+            "pt":"Pedra papel e tesoura (Jokenpo)"
+        },
         "tag": [
             "javascript",
             "responsive",
@@ -51,7 +57,10 @@
             "en": "Random quotes Issac Newton, using Api",
             "pt": "Citações do Isaac Newton, usando Api simples"
         },
-        "titulo": "Random quotes Issac Newton",
+        "titulo": {
+            "en":"Random quotes of Isaac Newton",
+            "pt":"Citações aleatorias de Isaac Newton"
+        },
         "tag": [
             "javascript",
             "typescript",
@@ -76,7 +85,10 @@
             "en": "Login screen, CRUD, using localhost",
             "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
         },
-        "titulo": "Login",
+        "titulo": {
+            "en":"CRUD Login",
+            "pt":"CRUD Login"
+        },
         "tag": [
             "javascript",
             "typescript",
@@ -98,7 +110,10 @@
             "en": "Cardholder page, responsive, autotype with sass",
             "pt": "Formulario de pagamento via cartão, responsivo, sass autocomplete"
         },
-        "titulo": "Card holder",
+        "titulo": {
+            "en":"Card info From",
+            "pt":"formulário de informações do cartão"
+        },
         "tag": [
             "typescript",
             "*"
@@ -120,7 +135,10 @@
             "en": "Form, made to test some inputs ",
             "pt": "Formulario de login(CRUD), usando localhost para armazenar dados"
         },
-        "titulo": "form ",
+        "titulo": {
+            "en":"Form",
+            "pt":"Formulário"
+        },
         "tag": [
             "javascript",
             "*"
@@ -138,7 +156,10 @@
         "id": "547856",
         "data": "",
         "cardDescription": "Chart of expensives, responsive, using framework",
-        "titulo": "Chart",
+        "titulo": {
+            "en":"Expenses chart",
+            "pt":"Gráfico de despesas"
+        },
         "tag": [
             "javascript",
             "typescript",
@@ -163,7 +184,10 @@
             "en": "Alura space, made with react to understand how it works",
             "pt": "Alura space, feito comm react para o simples intendimento de como o mesmo funciona"
         },
-        "titulo": "Alura space",
+        "titulo": {
+            "en":"Alura space",
+            "pt":"Alura space"
+        },
         "tag": [
             "javascript",
             "typescript",
@@ -186,7 +210,10 @@
             "en": "Alura geek, e-commerce site of geeks",
             "pt": "Alura geek, site e-commerce de produtos geeks"
         },
-        "titulo": "Alura geek",
+        "titulo": {
+            "en":"Alura Geek e-commerce",
+            "pt":"Alura Geek e-commerce"
+        },
         "tag": [
             "javascript",
             "react",
@@ -211,7 +238,10 @@
             "en": "Build your own robot, site with some inputs to create your own robot",
             "pt": "Crie seu priprio, site com alguns inpuuts para você criar seu proprio robô"
         },
-        "titulo": "Robot",
+        "titulo": {
+            "en":"Robot",
+            "pt":"Robô"
+        },
         "tag": [
             "javascript",
             "*"
@@ -232,7 +262,10 @@
             "en": "Todo with timer, made with react using a list associate to a timer",
             "pt": "Todo com contador, feito via react uusando uma lista associadda ao timer "
         },
-        "titulo": "Todo timer",
+        "titulo": {
+            "en":"TODO list with timer",
+            "pt":"Lista TODO com timer"
+        },
         "tag": [
             "javascript",
             "react",
@@ -257,7 +290,10 @@
             "en": "",
             "pt": "Calculadora feita com javascipt e sass"
         },
-        "titulo": "Calculadora",
+        "titulo": {
+            "en":"None",
+            "pt":"None"
+        },
         "tag": [
             "javascript",
             "typescript",
@@ -279,7 +315,10 @@
             "en": "Site made during Alura course, made with React focusing on filters and ordenation",
             "pt": "Site criado durante o curso da Alura, usando react com foco em filtros e ordenação"
         },
-        "titulo": "Aluroni pizzaria",
+        "titulo": {
+            "en":"Aluroni - pizzeria",
+            "pt":"Aluroni - pizzaria"
+        },
         "tag": [
             "javascript",
             "react",
