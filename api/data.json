@@ -311,5 +311,77 @@
             ],
             "projectUrl": "https://pizza-site-react.vercel.app/"
         }
+    },
+    {
+        "id": "547863",
+        "data": "",
+        "cardDescription": {
+            "en": "FrontEnd-Mentor challange, made with HTML, CSS focusing on design",
+            "pt": "Desafio do Frontend-mentor, feito com HTML, CSS focando o design"
+        },
+        "titulo": {
+            "en":"Huddle landing page - curved sections",
+            "pt":"Huddle landing page - Secções curvadas"
+        },
+        "tag": [
+            "javascript",
+            "*"
+        ],
+        "thumb": "/images/huddle-curved.webp",
+        "altImage": "landing-page huddle-curved",
+        "altPage": {
+            "contentImages": [
+                "/images/huddle-curved.webp"
+            ],
+            "projectUrl": "https://huddle-landingpage-curved.vercel.app/"
+        }
+    },
+    {
+        "id": "547864",
+        "data": "",
+        "cardDescription": {
+            "en": "FrontEnd-Mentor challange, made with HTML, CSS focusing on design",
+            "pt": "Desafio do Frontend-mentor, feito com HTML, CSS focando o design"
+        },
+        "titulo": {
+            "en":"Huddle landing page - single introductory section",
+            "pt":"Huddle landing page - Secção introdutoria única"
+        },
+        "tag": [
+            "javascript",
+            "*"
+        ],
+        "thumb": "/images/huddle-single.webp",
+        "altImage": "landing-page huddle-single-line",
+        "altPage": {
+            "contentImages": [
+                "/images/huddle-single.webp"
+            ],
+            "projectUrl": "https://huddle-landing-page-blush-eight.vercel.app/"
+        }
+    },
+    {
+        "id": "547865",
+        "data": "",
+        "cardDescription": {
+            "en": "FrontEnd-Mentor challange, made with HTML, CSS, JS, API, Local Storage",
+            "pt": "Desafio do Frontend-mentor, feito com HTML, CSS, JS, API, Local Storage"
+        },
+        "titulo": {
+            "en":"REST Countries API with color theme switcher",
+            "pt":"REST Countries API com botão switch de tema"
+        },
+        "tag": [
+            "javascript",
+            "*"
+        ],
+        "thumb": "/images/rest-api.webp",
+        "altImage": "landing-page huddle-single-line",
+        "altPage": {
+            "contentImages": [
+                "/images/rest-api.webp"
+            ],
+            "projectUrl": "https://rest-country-api-woad.vercel.app/"
+        }
     }
 ]
