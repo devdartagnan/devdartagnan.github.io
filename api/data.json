@@ -327,11 +327,11 @@
             "javascript",
             "*"
         ],
-        "thumb": "/images/huddle-curved.png",
+        "thumb": "/images/huddle-curved.webp",
         "altImage": "landing-page huddle-curved",
         "altPage": {
             "contentImages": [
-                "/images/huddle-curved.png"
+                "/images/huddle-curved.webp"
             ],
             "projectUrl": "https://huddle-landingpage-curved.vercel.app/"
         }
@@ -351,11 +351,11 @@
             "javascript",
             "*"
         ],
-        "thumb": "/images/huddle-single.png",
+        "thumb": "/images/huddle-single.webp",
         "altImage": "landing-page huddle-single-line",
         "altPage": {
             "contentImages": [
-                "/images/huddle-single.png"
+                "/images/huddle-single.webp"
             ],
             "projectUrl": "https://huddle-landing-page-blush-eight.vercel.app/"
         }
@@ -375,11 +375,11 @@
             "javascript",
             "*"
         ],
-        "thumb": "/images/rest-api.png",
+        "thumb": "/images/rest-api.webp",
         "altImage": "landing-page huddle-single-line",
         "altPage": {
             "contentImages": [
-                "/images/rest-api.png"
+                "/images/rest-api.webp"
             ],
             "projectUrl": "https://rest-country-api-woad.vercel.app/"
         }
