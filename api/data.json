@@ -337,6 +337,7 @@
         },
         "tag": [
             "javascript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/huddle-curved.webp",
@@ -361,7 +362,7 @@
             "pt":"Huddle landing page - Secção introdutoria única"
         },
         "tag": [
-            "javascript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/huddle-single.webp",
@@ -387,6 +388,7 @@
         },
         "tag": [
             "javascript",
+            "responsive",
             "*"
         ],
         "thumb": "/images/rest-api.webp",
