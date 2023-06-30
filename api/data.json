@@ -65,9 +65,7 @@
         },
         "tag": [
             "javascript",
-            "typescript",
             "responsive",
-            "react",
             "*"
         ],
         "thumb": "/images/quote.webp",
