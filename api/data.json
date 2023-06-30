@@ -127,7 +127,7 @@
                 "/images/cardholder.webp",
                 "/images/cardholdermobile.webp"
             ],
-            "repoUrl":"",
+            "repoUrl":"https://github.com/devdartagnan/interactive-cardholder",
             "projectUrl": "https://interactive-cardholder-j6gry3yz3-devdartagnan.vercel.app"
         }
     },
@@ -170,7 +170,6 @@
         "tag": [
             "javascript",
             "typescript",
-            "react",
             "responsive",
             "*"
         ],
@@ -225,7 +224,6 @@
         },
         "tag": [
             "javascript",
-            "react",
             "*"
         ],
         "thumb": "/images/geek.webp",
